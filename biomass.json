@@ -3,7 +3,7 @@
  "name": "Biomass",
  "description": "Used to create primitive buildings, insectoids and other resources.",
  "color": "990066",
- "flammability": 1f,
- "cost": 1f,
+ "flammability": 1,
+ "cost": 1,
  "alwaysUnlocked": false
 }
