@@ -1,0 +1,8 @@
+{
+ "type": "liquid",
+ "name": "Blood",
+ "description": "Blood? How did we get here? Anyways... This liquid will be used if not in all, but in most of organical buildings.",
+ "color": "aa0000",
+ "heatCapacity": 0.9f,
+ "viscosity": 0.5f,
+}

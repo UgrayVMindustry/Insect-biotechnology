@@ -1,0 +1,31 @@
+{
+  "type": "GenericCrafter",
+  "name": "Laboratory",
+  "description": "Produces biomass as a result of a chain of reactions related to spore pods and phase fabric.",
+  "health": 200,
+  "size": 2,
+  "requirements": [
+    { "item": "lead", "amount": 45}
+    { "item": "titanium", "amount": 50}
+    { "item": "silicon", "amount": 30}
+  ],
+  "research": "сultivator",
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 60,
+  "consumes": {
+    "power": 1,
+    "items": {
+      "items": [
+        { "item": "spore-pod", "amount": 1}
+        { "item": "phase-fabric", "amount": 1}
+      ]
+    }
+  },
+  "updateEffect": "plasticburn",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
+  "outputItem": { "item": "biomass", "amount": 3}
+}

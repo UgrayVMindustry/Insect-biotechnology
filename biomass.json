@@ -1,0 +1,9 @@
+{
+ "type": "material",
+ "name": "Biomass",
+ "description": "Used to create organic buildings, insectoids and other resources.",
+ "color": "dd0000",
+ "flammability": 1f,
+ "cost": 1f,
+ "alwaysUnlocked": false
+}
